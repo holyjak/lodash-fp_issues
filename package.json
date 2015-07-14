@@ -9,5 +9,6 @@
   },
   "dependencies": {
     "lodash-fp": "^0.9.4",
+    "lodash": "^0.9.4",
   }
 }
