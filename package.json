@@ -1,0 +1,13 @@
+{
+  "name": "lodash-fp_issues",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "2.x"
+  },
+  "dependencies": {
+    "lodash-fp": "^0.9.4",
+  }
+}
